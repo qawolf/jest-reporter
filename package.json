@@ -2,7 +2,7 @@
   "author": "QA Wolf",
   "name": "@qawolf/jest-reporter",
   "license": "BSD-3.0",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A basic Jest reporter that works with a REPL",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
